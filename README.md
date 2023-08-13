@@ -1,13 +1,13 @@
-# Example pipeline source
+# Example viewport overlay
 
 ## Installation
-- OVITO PRO built-in Python interpreter
+- OVITO Pro built-in Python interpreter
 ```
-ovitos -m pip install --user git+https://github.com/stukowski/ExamplePipelineSource.git
+ovitos -m pip install --user git+https://github.com/stukowski/ExampleViewportOverlay.git
 ``` 
 - Standalone Python package or Conda environment
 ```
-pip install --user git+https://github.com/stukowski/ExamplePipelineSource.git
+pip install --user git+https://github.com/stukowski/ExampleViewportOverlay.git
 ```
 - Please note that the `--user` tag is recommended but optional and depends on your Python installation.
 
