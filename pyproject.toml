@@ -18,7 +18,7 @@ dependencies = [
 [project.urls]
 repository = "https://github.com/stukowski/ExamplePipelineSource"
 
-[project.entry-points.'OVITO.Modifier']
+[project.entry-points.'OVITO.PipelineSource']
 "Example Pipeline Source" = "ExamplePipelineSource:ExamplePipelineSource"
 
 [tool.setuptools.packages.find]
