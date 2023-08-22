@@ -19,7 +19,8 @@ dependencies = [
 repository = "https://github.com/stukowski/ExampleViewportOverlay"
 
 [project.entry-points.'OVITO.ViewportOverlay']
-"Example Viewport Overlay" = "ExampleViewportOverlay:example_render_function"
+"Example Viewport Overlay (func)" = "ExampleViewportOverlay:example_render_function"
+"Example Viewport Overlay (class)" = "ExampleViewportOverlay:MyExampleOverlay"
 
 [tool.setuptools.packages.find]
 where = ["src"]
