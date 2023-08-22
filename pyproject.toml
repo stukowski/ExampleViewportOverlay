@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "ExampleViewportOverlay"
-version = "1.0"
+version = "1.0.1"
 description = "An example for a Python-based viewport layer for OVITO"
 keywords = ["ovito"]
 authors = [{name = "Alexander Stukowski", email = "stukowski@ovito.org"}]
